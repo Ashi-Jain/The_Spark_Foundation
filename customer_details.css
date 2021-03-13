@@ -1,0 +1,110 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6tYFmaWW9zamDT_g9M7BENevrV3FW1DwgUg&usqp=CAU");
+    background-size: 100% 100%;
+}
+
+.bg-light{
+   background-image: url("https://www.teahub.io/photos/full/261-2617153_wallpaper-linear-brown-yellow-gradient-sandy-brown-light.jpg");
+   background-size: 100% 100%;
+}
+
+.navbar-brand{
+    font-family:Georgia, 'Times New Roman', Times, serif !important;
+    font-weight: bold;
+    color: black !important;
+    font-size: 1.5rem;
+}
+
+.nav-link{
+    font-family:Georgia, 'Times New Roman', Times, serif !important;
+    font-weight: bold !important;
+    color: black !important;
+    font-size: 1.5rem !important;
+}
+
+.nav-link:hover{
+    color: rgb(255, 223, 134) !important;
+    background-color: rgb(105, 58, 14);
+    font-weight: normal;
+}
+
+.data{
+    padding: 2rem 5rem;
+    color: black;
+    text-align: center;
+}
+
+.btn-info{
+    padding: 1rem 1.2rem;
+    background-color: rgb(105, 58, 14)!important;
+    color: rgb(255, 223, 134)!important;
+    margin-left: 5px;
+    padding: 0.75rem;
+    transition: all 0.3s;
+}
+
+.btn-info:hover{
+    background-color: rgb(168, 109, 32)!important;
+}
+
+.table1 {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6tYFmaWW9zamDT_g9M7BENevrV3FW1DwgUg&usqp=CAU");
+    color: black;
+    text-align: center;
+}
+
+.table2 {
+    color: black;
+    text-align: center;
+}
+
+.table3 {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6tYFmaWW9zamDT_g9M7BENevrV3FW1DwgUg&usqp=CAU");
+    color: black;
+    text-align: center;
+}
+
+.table4 {
+    color: black;
+    text-align: center;
+}
+
+.table5 {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6tYFmaWW9zamDT_g9M7BENevrV3FW1DwgUg&usqp=CAU");
+    color: black;
+    text-align: center;
+}
+
+.table6 {
+    color: black;
+    text-align: center;
+}
+
+.table7 {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6tYFmaWW9zamDT_g9M7BENevrV3FW1DwgUg&usqp=CAU");
+    color: black;
+    text-align: center;
+}
+
+.table8 {
+    color: black;
+    text-align: center;
+}
+
+.table9 {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6tYFmaWW9zamDT_g9M7BENevrV3FW1DwgUg&usqp=CAU");
+    color: black;
+    text-align: center;
+}
+
+.table10 {
+    color: black;
+    text-align: center;
+}
+
+#intro {
+    font-family: Georgia, 'Times New Roman', Times, serif !important;
+    color: brown;
+}
+

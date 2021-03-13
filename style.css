@@ -1,0 +1,120 @@
+html{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    font-family: 'Roboto', sans-serif;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6tYFmaWW9zamDT_g9M7BENevrV3FW1DwgUg&usqp=CAU");
+    background-size: 100% 100%;
+}
+
+.bg-light{
+     background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6tYFmaWW9zamDT_g9M7BENevrV3FW1DwgUg&usqp=CAU");
+     background-size: 100% 100%;
+}
+
+.navbar-brand{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 1.5rem;  
+}
+
+.nav-link:hover{
+    background-color: #f3f1f1;
+}
+
+.main-text{
+    background-image: url("https://www.agas.com/media/6834/unwanted-halon-a-gas-pays-cash.png?format=jpg");
+    background-size: 100% 100%;
+    color: #ffffff;
+    padding: 3rem;
+    margin-bottom: 1vh;
+}
+
+.hero-img{
+    height: 70vh;
+    width: 100%;
+}
+
+@media only screen and (max-width: 766px) {
+    .hero-img {
+      display: none;
+    }
+}
+
+.transaction{
+    border-radius: 0.5rem;
+    font-size: 162%;
+    background-color: rgb(129, 100, 19);
+    color: #ffd025!important;
+    transition: 0.3s;
+    margin-left: 435px;
+}
+
+.column {
+    float: left;
+    width: 50%;
+    padding: 5px;
+}
+
+  .row::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+.transaction:hover{
+    text-decoration: none;
+    background-color: rgb(141, 88, 10);
+    color: #ffd025;
+    padding: 10px 30px;
+    margin-left: 400px;
+    text-align: center;
+}
+
+.p1 {
+    font-weight: normal;
+}
+.p2 {
+    font-weight: normal;
+}
+.p3 {
+    font-weight: normal;
+}
+.p4 {
+    font-weight: normal;
+}
+.p5 {
+    font-weight: normal;
+}
+.p6 {
+    font-weight: normal;
+}
+
+.instructions {
+    text-align: left;
+    text-align: justify;
+}
+
+.h1_heading {
+    text-align: center;
+    color: rgb(153, 104, 14); 
+    text-decoration: underline;
+}
+.h1_heading:hover {
+    color: rgb(255, 251, 27) !important;
+}
+.text {
+    text-align: center;
+    color: rgb(45, 189, 45);
+    margin-left: 100px; 
+    margin-right: 100px;
+    font-weight: bold;
+    font-size: larger;
+}
+.text-second {
+    text-align: center; 
+    color: black; 
+    font-weight: bold;
+}
